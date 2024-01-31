@@ -1,4 +1,5 @@
 ℹ️ Como funciona:
+
 Junto com o Sujeito Programador, este projeto foi construído com o objetivo de proporcionar uma experiência para os usuários. 
 Projetado para coletar informações importantes, o formulário incorpora um sistema de validação dinâmica que destaca mensagens de erro quando os campos não são preenchidos corretamente.
 
